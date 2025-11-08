@@ -1,6 +1,6 @@
 package main
 
-improt (
+import (
 	"strings"
 )
 
